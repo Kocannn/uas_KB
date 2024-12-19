@@ -1,0 +1,71 @@
+Statistik Normalisasi:
+
+Metode: standard
+
+Statistik per kolom:
+
+id:
+Mean: 0.0000
+Std: 1.0010
+Min: -1.7286
+Max: 1.7286
+
+Area:
+Mean: -0.0000
+Std: 1.0010
+Min: -1.0116
+Max: 2.4117
+
+MajorAxisLength:
+Mean: 0.0000
+Std: 1.0010
+Min: -1.3042
+Max: 1.9707
+
+MinorAxisLength:
+Mean: 0.0000
+Std: 1.0010
+Min: -1.2302
+Max: 1.7554
+
+Eccentricity:
+Mean: 0.0000
+Std: 1.0010
+Min: -2.6928
+Max: 1.3811
+
+ConvexArea:
+Mean: 0.0000
+Std: 1.0010
+Min: -1.0130
+Max: 2.4257
+
+EquivDiameter:
+Mean: 0.0000
+Std: 1.0010
+Min: -1.2105
+Max: 1.8080
+
+Extent:
+Mean: 0.0000
+Std: 1.0010
+Min: -2.4264
+Max: 1.7884
+
+Perimeter:
+Mean: -0.0000
+Std: 1.0010
+Min: -1.2656
+Max: 1.8298
+
+Roundness:
+Mean: -0.0000
+Std: 1.0010
+Min: -2.1258
+Max: 1.4397
+
+AspectRatio:
+Mean: -0.0000
+Std: 1.0010
+Min: -1.2462
+Max: 2.9151
